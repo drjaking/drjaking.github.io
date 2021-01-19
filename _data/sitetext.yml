@@ -2,12 +2,12 @@ header:
     title: Virtual Reality Compassion-Focused Therapy
     text: A Kinder Self
     button: About Us
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#what" # "#{section}" or "URL/page link"
 
-services:
-    title: "Services"
+what:
+    title: "What"
     text: "Lorem ipsum"
-    section: services
+    section: what
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -19,16 +19,16 @@ services:
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-portfolio:
-    title: "Portfolio"
+who:
+    title: "Who"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: who
     
 
-timeline:
-    title: "About" 
+network:
+    title: "Network" 
     text: "Lorem ipsum timeline"
-    section: timeline
+    section: network
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
@@ -56,32 +56,14 @@ timeline:
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+research:
+    title: "Research"
+    text: "About our research programme"
+    section: research
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Team"
+    text: "Meet the people."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
