@@ -1,15 +1,15 @@
 nav:
-  - title: "Services"
-    section: services
+  - title: "What"
+    section: what
 
-  - title: "Portfolio"
-    section: portfolio
+  - title: "Who"
+    section: who
     
-  - title: "About"
-    section: timeline
+  - title: "Network"
+    section: network
 
-  - title: "Team"
-    section: team
+  - title: "Research"
+    section: research
 
   - title: "Contact"
     section: contact
