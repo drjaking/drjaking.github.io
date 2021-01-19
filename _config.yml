@@ -34,4 +34,4 @@ collections:
 markdown: kramdown
 
 plugins:
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
