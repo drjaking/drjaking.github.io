@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Virtual Reality Compassion-Focused Therapy
+    text: A Kinder Self
+    button: About Us
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
